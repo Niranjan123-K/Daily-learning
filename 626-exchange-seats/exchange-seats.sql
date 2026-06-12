@@ -10,6 +10,6 @@ select
      else
         id-1
       end as id,student from Seat
-    order by id asc;       
+    order by id;       
 
   

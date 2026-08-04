@@ -16,7 +16,6 @@ class Solution {
             li.add(min);
            }
            min++;
-           
         }
        return li;
     }
